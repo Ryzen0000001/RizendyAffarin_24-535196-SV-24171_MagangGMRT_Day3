@@ -6,7 +6,7 @@
 Adafruit_MPU6050 mpu;
 Servo servo1, servo2, servo3, servo4, servo5;
 
-int pirPin = 55;
+int pirPin = 25;
 bool motionDetected;
 
 void setup() {
